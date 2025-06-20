@@ -1,4 +1,4 @@
-# 🌀 ScrollNest
+# ScrollNest
 
 **ScrollNest** is a lightweight and privacy-friendly browser extension that lets you **save and restore your browser sessions**, including the **scroll positions** of each tab. Ideal for researchers, students, and productivity lovers who want to continue where they left off — effortlessly.
 
